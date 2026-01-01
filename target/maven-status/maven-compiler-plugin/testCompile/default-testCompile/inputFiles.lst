@@ -1,0 +1,12 @@
+C:\July25Workplace\OpencartV121\src\test\java\baseClass\BaseClass.java
+C:\July25Workplace\OpencartV121\src\test\java\pageObjects\AccountRegistrationPage.java
+C:\July25Workplace\OpencartV121\src\test\java\pageObjects\BasePage.java
+C:\July25Workplace\OpencartV121\src\test\java\pageObjects\HomePage.java
+C:\July25Workplace\OpencartV121\src\test\java\pageObjects\LoginPage.java
+C:\July25Workplace\OpencartV121\src\test\java\pageObjects\MyAccountPage.java
+C:\July25Workplace\OpencartV121\src\test\java\testCases\TC001_AccountRegistrationTest.java
+C:\July25Workplace\OpencartV121\src\test\java\testCases\TC002_LoginTest.java
+C:\July25Workplace\OpencartV121\src\test\java\testCases\TC003_LoginDDT.java
+C:\July25Workplace\OpencartV121\src\test\java\utilities\DataProviders.java
+C:\July25Workplace\OpencartV121\src\test\java\utilities\ExcelUtility.java
+C:\July25Workplace\OpencartV121\src\test\java\utilities\ExtentReportManager.java
